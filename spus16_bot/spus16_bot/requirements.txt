@@ -1,0 +1,4 @@
+feedparser==6.0.6
+python-twitter==3.5
+SQLAlchemy==1.4.18
+Janome==0.4.1

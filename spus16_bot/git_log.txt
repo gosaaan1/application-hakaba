@@ -1,0 +1,83 @@
+commit 004dca3d5ae30b0578664807957bec1279db0bd6
+Author: gosaaan1
+Date:   Fri Sep 23 08:42:37 2022 +0000
+
+    画像検索の精度改善
+
+commit 2b16b9f89646215f6531f803d0e95c34f405cdee
+Author: gosaaan1
+Date:   Fri Apr 8 21:49:19 2022 +0900
+
+    メンションをつけるとAPIを止められてしまうので対処
+
+commit 98dd775a03e747f579c5d5a532b598de0cd3615e
+Author: t_yamaguchi-at-525658500115 <liveware206@gmail.com>
+Date:   Wed Aug 11 23:54:28 2021 +0900
+
+    呟怖 チェックできないイメージの判定方法を変更
+
+commit 14e0a34038d005d2b9c15ed3a0e89c6dd9258186
+Author: t_yamaguchi-at-525658500115 <liveware206@gmail.com>
+Date:   Sun Jul 11 18:09:58 2021 +0900
+
+    避難指示つくりかけー
+
+commit 2743e1fe78dd5921837d7da5402737027b9cb735
+Author: gosaaan1
+Date:   Sun Jul 11 01:12:26 2021 +0900
+
+    7.10時点の課題整理
+
+commit 8fa879fdff749f9193a66662e8e3cf1aeead6b52
+Author: gosaaan1
+Date:   Sun Jul 11 00:53:29 2021 +0900
+
+    pytestを導入するためにディレクトリ構成を変更
+
+commit 756cf47e872edfc79c90c3044ca524897363146a
+Author: gosaaan1
+Date:   Fri Jul 9 22:48:31 2021 +0900
+
+    運行情報 改訂版
+
+commit 9244bdaa8952cd91463c47f0af0a544fb10ee753
+Author: gosaaan1
+Date:   Sun Jul 4 21:51:00 2021 +0900
+
+    列車運行情報(RSS)のステータスが保存できていない不具合を修正
+
+commit e959132fa211b762832222e235b15fa78a2f152b
+Author: gosaaan1
+Date:   Sun Jul 4 18:55:22 2021 +0900
+
+    呟怖サポアスの試験運転用
+
+commit 549b08d29482461b9341b7ec255497fda55b6c19
+Author: gosaaan1
+Date:   Sun Jul 4 12:14:34 2021 +0900
+
+    呟怖サポアスの実装
+
+commit b39e4fd9018ae33569ba49047196e4a482b2927f
+Author: gosaaan1
+Date:   Fri Jul 2 09:11:14 2021 +0900
+
+    今までの修正内容をいったんコミット
+
+commit 590cad81ec3eb2355c92bda7c95cd04c6a4e0cf3
+Author: gosaaan1
+Date:   Wed Jun 23 23:17:41 2021 +0900
+
+    コードの整理
+
+commit d8ab3dc6e21c1680d0daccebb8d018e330861ed9
+Author: gosaaan1
+Date:   Tue Jun 22 22:38:38 2021 +0900
+
+    大地震通知まで実装
+
+commit 144059b31a4cda6f46cf44c9554cb91391a5678a
+Author: gosaaan1
+Date:   Sun Jun 20 11:24:36 2021 +0900
+
+    列車運行情報通知まで実装
